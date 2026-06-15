@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=200&section=header&text=Hafizh%20Maulidan&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=200&section=header&text=Hafizh%20Maulidan&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=180&section=header&text=Hafizh%20Maulidan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="header">
 
 ```yaml
 Head of Unit at Rumah Susu Indonesia
@@ -103,19 +100,10 @@ Building at the intersection of **operations**, **embedded systems**, and **data
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HAFIZHMAULIDAN15&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=1447E6&text_color=A1A1AA&title_color=1447E6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAFIZHMAULIDAN15&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZHMAULIDAN15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=A1A1AA&title_color=1447E6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZHMAULIDAN15&layout=compact&theme=default&hide_border=true">
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAFIZHMAULIDAN15&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=1447E6&text_color=A1A1AA&title_color=1447E6">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZHMAULIDAN15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=A1A1AA&title_color=1447E6">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HAFIZHMAULIDAN15&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1447E6&fire=1447E6&sideNums=1447E6&currStreakLabel=A1A1AA&sideLabels=A1A1AA">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=HAFIZHMAULIDAN15&theme=default&hide_border=true">
-</picture>
+<img width="100%" src="https://streak-stats.demolab.com/?user=HAFIZHMAULIDAN15&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1447E6&fire=1447E6&sideNums=1447E6&currStreakLabel=A1A1AA&sideLabels=A1A1AA">
 
 ---
 
