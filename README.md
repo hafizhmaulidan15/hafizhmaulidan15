@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=220&section=header&text=Hafizh%20Maulidan&desc=Head%20of%20Unit%20at%20Rumah%20Susu%20Indonesia%20%7C%20Operations%20%26%20Production%20Management%20%7C%20Dairy%20Manufacturing%20%26%20Process%20Optimization&fontSize=42&fontColor=fff&descSize=13&descAlignY=55&animation=fadeIn&fontAlignY=35" width="100%" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=220&section=header&text=Hafizh%20Maulidan&amp;desc=Head%20of%20Unit%20at%20Rumah%20Susu%20Indonesia%20%7C%20Operations%20%26%20Production%20Management%20%7C%20Dairy%20Manufacturing%20%26%20Process%20Optimization&fontSize=42&fontColor=fff&descSize=13&descAlignY=55&animation=fadeIn&fontAlignY=35" width="100%" alt="header">
 
 **Scaling dairy production 0 → 53K+ liters** through repeatable operational systems.  
 Building at the intersection of **operations**, **embedded systems**, and **data**.
