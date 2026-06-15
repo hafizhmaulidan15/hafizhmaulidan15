@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=220&section=header&text=Hafizh%20Maulidan&amp;desc=Head%20of%20Unit%20at%20Rumah%20Susu%20Indonesia%20%7C%20Operations%20%26%20Production%20Management%20%7C%20Dairy%20Manufacturing%20%26%20Process%20Optimization&fontSize=42&fontColor=fff&descSize=13&descAlignY=55&animation=fadeIn&fontAlignY=35" width="100%" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1447E6,100:009588&amp;height=220&amp;section=header&amp;text=Hafizh%20Maulidan&amp;desc=Head%20of%20Unit%20at%20Rumah%20Susu%20Indonesia%20%7C%20Operations%20%26%20Production%20Management%20%7C%20Dairy%20Manufacturing%20%26%20Process%20Optimization&amp;fontSize=42&amp;fontColor=fff&amp;descSize=13&amp;descAlignY=55&amp;animation=fadeIn&amp;fontAlignY=35" width="100%" alt="header">
 
-**Scaling dairy production 0 → 53K+ liters** through repeatable operational systems.  
+**Scaling dairy production 53K+ liters** through repeatable operational systems.  
 Building at the intersection of **operations**, **embedded systems**, and **data**.
 
 ---
@@ -83,10 +83,10 @@ Building at the intersection of **operations**, **embedded systems**, and **data
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAFIZHMAULIDAN15&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=1447E6&text_color=A1A1AA&title_color=1447E6">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZHMAULIDAN15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=A1A1AA&title_color=1447E6">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAFIZHMAULIDAN15&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=1447E6&amp;text_color=A1A1AA&amp;title_color=1447E6">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAFIZHMAULIDAN15&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;text_color=A1A1AA&amp;title_color=1447E6">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=HAFIZHMAULIDAN15&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1447E6&fire=1447E6&sideNums=1447E6&currStreakLabel=A1A1AA&sideLabels=A1A1AA">
+<img width="100%" src="https://streak-stats.demolab.com/?user=HAFIZHMAULIDAN15&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=1447E6&amp;fire=1447E6&amp;sideNums=1447E6&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA">
 
 ---
 
@@ -99,5 +99,5 @@ Building at the intersection of **operations**, **embedded systems**, and **data
 [![Portfolio](https://img.shields.io/badge/Portfolio-1447E6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-olive-pi-80.vercel.app/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HAFIZHMAULIDAN15&color=1447E6&style=flat&label=Profile+Visitors" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=HAFIZHMAULIDAN15&amp;color=1447E6&amp;style=flat&amp;label=Profile+Visitors" alt="visitors">
 </p>
