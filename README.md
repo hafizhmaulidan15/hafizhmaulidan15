@@ -1,9 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=180&section=header&text=Hafizh%20Maulidan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="header">
-
-```yaml
-Head of Unit at Rumah Susu Indonesia
-Operations & Production · IoT Engineer · Frontend Developer
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1447E6,100:009588&height=220&section=header&text=Hafizh%20Maulidan&desc=Head%20of%20Unit%20%7C%20IoT%20Engineer&fontSize=42&fontColor=fff&descSize=15&descAlignY=55&animation=fadeIn&fontAlignY=35" width="100%" alt="header">
 
 **Scaling dairy production 0 → 53K+ liters** through repeatable operational systems.  
 Building at the intersection of **operations**, **embedded systems**, and **data**.
@@ -84,18 +79,6 @@ Building at the intersection of **operations**, **embedded systems**, and **data
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 </details>
-
----
-
-### 📌 Featured
-
-| Project | Stack | Role |
-|---|---|---|
-| [Rumah Susu Inventory Dashboard](https://github.com/hafizhmaulidan15/Rumah-Susu-Dashboard) | Next.js · TypeScript · Google Sheets API | Lead |
-| [Banana Ripeness Detection](https://github.com/hafizhmaulidan15/BananaRipness) | ESP32 · TCS34725 · Fuzzy Logic | IoT Dev |
-| [IDX Market Screener](https://github.com/hafizhmaulidan15/My-Py-code) | Python · Pandas · Scikit-Learn | ML Dev |
-| [Flood Detection System](https://github.com/hafizhmaulidan15/FloodDetection) | ESP32 · Ultrasonic · MQTT | IoT Dev |
-
 ---
 
 ### 📊 GitHub Stats
@@ -113,7 +96,7 @@ Building at the intersection of **operations**, **embedded systems**, and **data
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizhmaull_)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pismaul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhafizh.maulidan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1447E6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-olive-pi-80.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1447E6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-muhammad-hafizh-maulidan.vercel.app/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HAFIZHMAULIDAN15&color=1447E6&style=flat&label=Profile+Visitors" alt="visitors">
